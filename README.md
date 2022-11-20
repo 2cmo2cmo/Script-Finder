@@ -4,7 +4,7 @@ Steps-
 2. Open with WinRAR
 3. Right click on the file
 4. Click extract without confirmation
-5. Go to chrome and paste chrome://extensions/
+5. Go to chrome and paste "chrome://extensions/" in the search bar
 6. Turn on develipor mode if its not already on
 7. Click "Load unpacked" on the top left
 8. Click the folder u just extracted
