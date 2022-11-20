@@ -16,7 +16,7 @@ Steps-
 15. Click on a script of your choice 
 16. It should pop up on your screen 
 17. Enjoy
-. Perks-
+.   Perks-
 1.  Built in executor
 2.  No need to find script
 3.  No 268 client error
