@@ -9,8 +9,10 @@ Steps-
 7. Click "Load unpacked" on the top left
 8. Click the folder u just extracted
 9. Go to roblox
-10. Find a game
-11. Click on the extention
-12. Click on the script you want
-13. Paste into your exicutor
-14. Enjoy
+10. Join any game
+11. Once you join a game of your choice
+12. A list of scripts and a search bar should pop up
+13. Unleaked and good FE scripts are included in the lists
+14. Click on a script of your choice 
+15. It should pop up on your screen
+16. Enjoy
