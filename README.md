@@ -5,23 +5,24 @@ Steps-
 4.  Click extract without confirmation
 5.  Go to chrome and paste "chrome://extensions/" in the search bar 
 6.  Turn on developer mode if it's not already on 
-7.  Click "Load unpacked" on the top left 
-8.  Click the folder u just extracted
-9.  Go to roblox 
-10. Join any game 
-11. Once you join a game of your choice 
-12. A list of scripts and a search bar should pop up
-13. Unleaked and good FE scripts are included in the lists 
-14. Click on a script of your choice 
-15. It should pop up on your screen 
-16. Enjoy
+7.  Open file explorer
+8.  Open the folder you just extracted and drag the folder named "code" ontop of the rest of your extentions
+9.  Drag the folder named "code" ontop of the rest of your extentions
+10. Go to roblox 
+11. Join any game 
+12. Once you join a game of your choice 
+13. A list of scripts and a search bar should pop up
+14. Unleaked and good FE scripts are included in the lists 
+15. Click on a script of your choice 
+16. It should pop up on your screen 
+17. Enjoy
 Perks-
-1. Built in executor
-2. No need to find script
-3. No 268 client error
-4. Fast updates 
-5. Active staff
-6. Free
-7. Rarely down
-8. Customizable
-9. Open scrc
+1.  Built in executor
+2.  No need to find script
+3.  No 268 client error
+4.  Fast updates 
+5.  Active staff
+6.  Free
+7.  Rarely down
+8.  Customizable
+9.  Open scrc
