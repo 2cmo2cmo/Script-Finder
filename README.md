@@ -15,3 +15,13 @@ Steps-
 14. Click on a script of your choice 
 15. It should pop up on your screen 
 16. Enjoy
+Perks-
+1. Built in executor
+2. No need to find script
+3. No 268 client error
+4. Fast updates 
+5. Active staff
+6. Free
+7. Rarely down
+8. Customizable
+9. Open scrc
